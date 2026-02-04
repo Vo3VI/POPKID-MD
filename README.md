@@ -42,9 +42,9 @@
 
 [![Deploy to Render](https://img.shields.io/badge/DEPLOY%20TO%20RENDER-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy)
 
-### **Koyeb**
+### **KATABUMP**
 
-[![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy)
+[![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://dashboard.katabump.com/auth/login#f0bc06)
 
 ### **Railway**
 
