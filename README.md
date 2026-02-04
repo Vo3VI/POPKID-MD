@@ -61,7 +61,7 @@
 <br>
 
 ### ☁️ KATABUMP  
-[![Deploy to KATABUMP](https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://dashboard.katabump.com/auth/login#f0bc06)
+[![Deploy to KATABUMP](https://img.shields.io/badge/DEPLOY%20TO%20KATABUMP-121212?style=for-the-badge&logo=katabump&logoColor=white)](https://dashboard.katabump.com/auth/login#f0bc06)
 
 <br>
 
